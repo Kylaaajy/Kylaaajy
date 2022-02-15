@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kylaaajy. First year BSCS student of West Visayas State University - Main Campus.
-- 👀 I’m interested in exploring things beyond my capability and then regretting things when I can't do it.
+- 👀 I’m interested in exploring things beyond my capability and then regret it at the end when I can't do it.
 - 🌱 I’m currently learning about different languages of programming.
 - 💞️ My hobbies are Reading, Gardening, Watching K-dramas, and Taking a nap.
 - 📫 How to reach me ...
